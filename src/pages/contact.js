@@ -3,7 +3,7 @@ import React, { useState } from "react"
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
-const GETFORM_FORM_ENDPOINT = "YOUR-FORM-ENDPOINT";
+const GETFORM_FORM_ENDPOINT = "https://getform.io/f/2a658a71-9d32-4339-88f5-b7d75a6eb05b";
 
 
 function Form() {
